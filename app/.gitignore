@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+AI_ML/
+env/
+ENV/
+
+# Conda
+.conda/
+*.conda
+*.tar.bz2
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / models (customize if needed)
+data/
+*.faiss
+*.pkl
+*.pt
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
